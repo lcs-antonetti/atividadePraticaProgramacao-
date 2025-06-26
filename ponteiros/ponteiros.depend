@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1750963179 source:c:\users\orcamento\desktop\ponteiros\main.c
+	<stdio.h>
+	<stdlib.h>
+
